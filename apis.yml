@@ -1,0 +1,32 @@
+aid: bigdatacloud
+name: BigDataCloud
+description: "Provides fast and accurate IP geolocation APIs along with security checks and confidence area"
+url: https://www.bigdatacloud.com/ip-geolocation-apis
+specificationVersion: '0.20'
+created: '2026-05-28'
+modified: '2026-05-28'
+x-source: public-apis/public-apis
+x-category: "Geocoding"
+x-tier: 3
+x-tier-reason: bulk-registered-from-public-apis
+tags:
+  - Geocoding
+  - Public APIs
+apis:
+  - name: BigDataCloud
+    description: "Provides fast and accurate IP geolocation APIs along with security checks and confidence area"
+    humanURL: https://www.bigdatacloud.com/ip-geolocation-apis
+    baseURL: https://www.bigdatacloud.com/ip-geolocation-apis
+    tags:
+      - Geocoding
+    properties:
+      - type: Documentation
+        url: https://www.bigdatacloud.com/ip-geolocation-apis
+common:
+  - type: Website
+    url: https://www.bigdatacloud.com/ip-geolocation-apis
+  - type: PublicAPIsListing
+    url: https://github.com/public-apis/public-apis
+maintainers:
+  - FN: Kin Lane
+    email: kin@apievangelist.com
