@@ -39,7 +39,6 @@ apis:
   - name: BigDataCloud
     description: "Provides fast and accurate IP geolocation APIs along with security checks and confidence area"
     humanURL: https://www.bigdatacloud.com/ip-geolocation-apis
-    baseURL: https://www.bigdatacloud.com/ip-geolocation-apis
     tags:
       - Geocoding
     properties:
